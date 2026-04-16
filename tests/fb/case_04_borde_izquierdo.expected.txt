@@ -1,0 +1,2 @@
+seam=0 0 0 0 0
+energy=5

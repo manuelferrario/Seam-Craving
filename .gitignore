@@ -1,0 +1,21 @@
+# Build artifacts
+*.exe
+*.o
+*.obj
+
+# Output artifacts
+output/imagenes/*
+output/numericos/*
+!output/imagenes/.gitkeep
+!output/numericos/.gitkeep
+
+# Temporary and OS files
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+output/imagenes despues craving/
